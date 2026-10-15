@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python_Marks,AI_Marks,Database_Marks,Attendance,Total_Marks,Average_Marks,Grade,Result
+S001,Aarav Sharma,MCA,78,85,82,90,245,81.67,A,Pass
+S002,Diya Verma,MCA,92,88,95,96,275,91.67,A+,Pass
+S003,Rohan Gupta,MCA,45,52,49,72,146,48.67,F,Pass
+S004,Ananya Singh,MCA,67,74,71,88,212,70.67,B,Pass
+S005,Vivaan Patel,MCA,33,41,38,65,112,37.33,F,Fail
+S006,Isha Mehta,MCA,86,91,89,94,266,88.67,A,Pass
+S007,Aditya Kumar,MCA,59,63,61,79,183,61.0,C,Pass
+S008,Saanvi Joshi,MCA,95,93,97,98,285,95.0,A+,Pass
+S009,Arjun Malhotra,MCA,72,68,75,84,215,71.67,B,Pass
+S010,Myra Kapoor,MCA,81,79,84,91,244,81.33,A,Pass
+S011,Kabir Das,MCA,38,35,44,60,117,39.0,F,Fail
+S012,Aanya Rao,MCA,88,84,90,93,262,87.33,A,Pass
+S013,Reyansh Jain,MCA,64,58,62,76,184,61.33,C,Pass
+S014,Pari Nair,MCA,53,49,57,70,159,53.0,D,Pass
+S015,Krishna Shah,MCA,76,82,79,87,237,79.0,B,Pass
+S016,Sara Khan,MCA,91,90,92,95,273,91.0,A+,Pass
+S017,Atharv Roy,MCA,47,43,50,68,140,46.67,F,Pass
+S018,Navya Bansal,MCA,69,77,73,89,219,73.0,B,Pass
+S019,Ishaan Sethi,MCA,84,86,80,92,250,83.33,A,Pass
+S020,Kiara Malhotra,MCA,57,61,55,74,173,57.67,D,Pass

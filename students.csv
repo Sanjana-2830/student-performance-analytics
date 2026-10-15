@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python_Marks,AI_Marks,Database_Marks,Attendance
+S001,Aarav Sharma,MCA,78,85,82,90
+S002,Diya Verma,MCA,92,88,95,96
+S003,Rohan Gupta,MCA,45,52,49,72
+S004,Ananya Singh,MCA,67,74,71,88
+S005,Vivaan Patel,MCA,33,41,38,65
+S006,Isha Mehta,MCA,86,91,89,94
+S007,Aditya Kumar,MCA,59,63,61,79
+S008,Saanvi Joshi,MCA,95,93,97,98
+S009,Arjun Malhotra,MCA,72,68,75,84
+S010,Myra Kapoor,MCA,81,79,84,91
+S011,Kabir Das,MCA,38,35,44,60
+S012,Aanya Rao,MCA,88,84,90,93
+S013,Reyansh Jain,MCA,64,58,62,76
+S014,Pari Nair,MCA,53,49,57,70
+S015,Krishna Shah,MCA,76,82,79,87
+S016,Sara Khan,MCA,91,90,92,95
+S017,Atharv Roy,MCA,47,43,50,68
+S018,Navya Bansal,MCA,69,77,73,89
+S019,Ishaan Sethi,MCA,84,86,80,92
+S020,Kiara Malhotra,MCA,57,61,55,74
